@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wahid-Popal
-- 👀 I’m interested in learning anything about computers
-- 🌱 I’m currently learning how to collobirate with other students using gitHub
-- 💞️ I’m looking to collaborate on all my computer science coursess assignments 
-- 📫 How to reach me wahid.popal@ontariotechu.net
+- 👋 Hi, I’m Wahid-Popal
+- 👀 I’m interested in learning anything that is relevant to Computer Science
+- 🌱 I’m currently learning how to collaborate with other students using gitHub
+- 💞️ I’m looking to collaborate on all my Computer Science courses assignments 
+- 📫 To reach out to me use wahid.popal@ontariotechu.net email
 
 <!---
 Wahid-Popal/Wahid-Popal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
